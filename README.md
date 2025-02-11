@@ -34,3 +34,16 @@ Understanding variations in shipment methods and their effectiveness.
 
 Predicting potential delivery delays and mitigating risks.
 
+# Dashboard
+
+![image](https://github.com/user-attachments/assets/0fbaa2e6-c253-4a5e-87a0-f30dd6f80184)
+
+![image](https://github.com/user-attachments/assets/8d2a7ebd-93fb-47e9-b400-95ca862937c2)
+
+![image](https://github.com/user-attachments/assets/ced7b578-2924-4539-aa29-ee624e2dfb73)
+
+
+
+
+
+
