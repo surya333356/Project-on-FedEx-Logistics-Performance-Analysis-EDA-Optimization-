@@ -34,6 +34,87 @@ Understanding variations in shipment methods and their effectiveness.
 
 Predicting potential delivery delays and mitigating risks.
 
+**FedEx Performance Analysis - Power BI Report**
+
+### **Business Objective**
+The purpose of this report is to analyze FedEx's shipping performance across different shipment modes, countries, and vendors. The goal is to identify key areas for cost optimization, improve delivery efficiency, and enhance customer satisfaction by reducing delays and cancellations. This report provides insights into shipment volumes, freight costs, time-based performance, and shipment trends to assist stakeholders in making informed strategic decisions.
+
+---
+
+### **Key Performance Indicators (KPIs)**
+- **Total Shipments:** 10K
+- **Total Freight Cost:** $93M
+- **Average Delivery Delay:** 21 days
+- **Early Deliveries:** 31
+- **Cancellation Rate:** 100%
+
+---
+
+### **Time Analysis**
+1. **Delivery Delays by Shipment Mode**
+   - Ocean shipments experience the highest delays, while Air Charter has the least delays.
+   - Ocean shipments are the lowest in volume, whereas Air shipments are the highest.
+
+2. **On-Time vs. Late Shipments**
+   - Most shipments are delivered on time, while late shipments represent a minimal proportion.
+
+3. **Delivery Delays by Country and Vendor**
+   - **Country-wise:** Congo DRC has the highest delays, while Senegal has the least delays.
+   - **Vendor-wise:** JSI R&T Institute Inc. records the highest delays, whereas Sun Pharma Ind Ltd has the lowest delays.
+
+4. **Shipment Mode and Delivery Performance**
+   - Air shipments have the highest volume and on-time deliveries, while ocean shipments have the lowest for both metrics.
+
+5. **Monthly Delivery Delay Trends**
+   - **Minimal Delays:** January, April, December (highest negative values indicate quicker deliveries).
+   - **Maximum Delays:** August, September, February (lowest negative values indicate greater delays).
+
+---
+
+### **Cost Analysis**
+1. **Freight Cost and Shipment Mode**
+   - Air Charter incurs the highest freight cost, while Truck has the lowest.
+   - Air shipments are the highest in volume, while Ocean shipments remain the lowest.
+
+2. **Freight Cost vs. Delay**
+   - Ocean shipments have the longest delays but the lowest costs.
+   - Air shipments experience minimal delays but come at a higher cost.
+
+3. **Price Analysis by Vendor and Country**
+   - **Vendor-wise:** SCMS from RDC has the highest pricing, whereas Abbott Laboratories has the lowest.
+   - **Country-wise:** Nigeria incurs the highest shipping costs, while Guyana records the lowest.
+
+4. **Monthly Freight Cost Trends**
+   - **Lowest Costs:** January and December.
+   - **Highest Costs:** March, August, September, October.
+
+---
+
+### **Shipment Analysis**
+1. **Top 5 Countries by Total Shipments:**
+   - South Africa, Nigeria, Côte d'Ivoire, Uganda, Vietnam.
+
+2. **Top 5 Countries by Freight Cost:**
+   - Nigeria, South Africa, Côte d'Ivoire, Uganda, Vietnam.
+
+3. **Early Deliveries by Country:**
+   - South Africa, Guyana, Botswana.
+
+---
+
+### **Strategic Recommendations**
+1. **Reduce Delays in Ocean Shipments:** Evaluate alternative shipment methods or optimize logistics for ocean freight to minimize delays.
+2. **Cost Optimization for Air Freight:** Since Air Charter has the highest freight cost, explore negotiation strategies or optimize routes to reduce expenses.
+3. **Vendor Performance Monitoring:** Focus on vendors with high delays (e.g., JSI R&T Institute Inc.) and implement performance-based contracts to improve reliability.
+4. **Improve Cost Efficiency in High-Cost Countries:** Conduct a detailed cost-benefit analysis for Nigeria and other high-cost regions to identify potential savings.
+5. **Enhance On-Time Delivery Rates:** Investigate causes of shipment delays in Congo DRC and implement targeted interventions to improve performance.
+
+---
+
+This analysis equips stakeholders with data-driven insights to enhance FedEx's operational efficiency, reduce costs, and improve customer experience through optimized logistics strategies.
+
+
+
 # Dashboard
 
 ![image](https://github.com/user-attachments/assets/0fbaa2e6-c253-4a5e-87a0-f30dd6f80184)
