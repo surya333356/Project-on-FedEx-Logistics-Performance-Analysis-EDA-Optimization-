@@ -58,15 +58,18 @@ Predicting potential delivery delays and mitigating risks.
 
 **Time Analysis**
 
-![image](https://github.com/user-attachments/assets/3b61ec46-5e20-4ea1-9116-595085545b0e)
+![image](https://github.com/user-attachments/assets/577b0406-becc-45da-9d47-7a27372feea1)
+
 
 **Cost Analysis**
 
-![image](https://github.com/user-attachments/assets/8106e572-fca1-4fdc-9057-af00aa533949)
+![image](https://github.com/user-attachments/assets/7cac6cae-89b1-4211-9701-c8c946909b6b)
+
 
 **Shipment Analysis**
 
-![image](https://github.com/user-attachments/assets/aa27ebd7-5d1c-4180-bee0-bc59a909ca80)
+![image](https://github.com/user-attachments/assets/59ad4d29-2f41-43d8-bf74-5a6b24d0500a)
+
 
 
 
