@@ -34,7 +34,28 @@ Understanding variations in shipment methods and their effectiveness.
 
 Predicting potential delivery delays and mitigating risks.
 
-**FedEx Performance Analysis - Power BI Report**
+# EDA Charts
+
+![image](https://github.com/user-attachments/assets/087eab1e-8d68-4809-8e24-fab230c57e72)
+
+![image](https://github.com/user-attachments/assets/b4780714-0d52-4f6a-b6c2-fdc0bcd72736)
+
+![image](https://github.com/user-attachments/assets/48b0d63c-a107-473a-92fe-a86854d99fd3)
+
+![image](https://github.com/user-attachments/assets/0412deee-7b7d-4731-8515-ce78be281e50)
+
+![image](https://github.com/user-attachments/assets/4b88a18c-a1c8-440f-ad29-72976af84c8e)
+
+![image](https://github.com/user-attachments/assets/478b383f-0813-4e80-b44d-c0f02f77de98)
+
+![image](https://github.com/user-attachments/assets/095b98c2-33a7-4253-b846-9af27a119c68)
+
+![image](https://github.com/user-attachments/assets/40da5ddc-acd3-4443-b41f-8871cb1bb0d0)
+
+![image](https://github.com/user-attachments/assets/974ce760-53c6-4fde-8457-a28776427797)
+
+
+# FedEx Performance Analysis - Power BI Report
 
 ### **Business Objective**
 The purpose of this report is to analyze FedEx's shipping performance across different shipment modes, countries, and vendors. The goal is to identify key areas for cost optimization, improve delivery efficiency, and enhance customer satisfaction by reducing delays and cancellations. This report provides insights into shipment volumes, freight costs, time-based performance, and shipment trends to assist stakeholders in making informed strategic decisions.
