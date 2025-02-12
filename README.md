@@ -54,6 +54,21 @@ Predicting potential delivery delays and mitigating risks.
 
 ![image](https://github.com/user-attachments/assets/974ce760-53c6-4fde-8457-a28776427797)
 
+# Dashboard
+
+**Time Analysis**
+
+![image](https://github.com/user-attachments/assets/3b61ec46-5e20-4ea1-9116-595085545b0e)
+
+**Cost Analysis**
+
+![image](https://github.com/user-attachments/assets/8106e572-fca1-4fdc-9057-af00aa533949)
+
+**Shipment Analysis**
+
+![image](https://github.com/user-attachments/assets/aa27ebd7-5d1c-4180-bee0-bc59a909ca80)
+
+
 
 # FedEx Performance Analysis - Power BI Report
 
@@ -135,14 +150,8 @@ The purpose of this report is to analyze FedEx's shipping performance across dif
 This analysis equips stakeholders with data-driven insights to enhance FedEx's operational efficiency, reduce costs, and improve customer experience through optimized logistics strategies.
 
 
+# Hurrah! You have successfully completed your EDA Capstone Project and Power BI Dashboard !!!
 
-# Dashboard
-
-![image](https://github.com/user-attachments/assets/0fbaa2e6-c253-4a5e-87a0-f30dd6f80184)
-
-![image](https://github.com/user-attachments/assets/8d2a7ebd-93fb-47e9-b400-95ca862937c2)
-
-![image](https://github.com/user-attachments/assets/ced7b578-2924-4539-aa29-ee624e2dfb73)
 
 
 
