@@ -1,6 +1,8 @@
 # Project-on-FedEx-Logistics-Performance-Analysis-EDA-Optimization
 ![image](https://github.com/user-attachments/assets/4e76af87-7a86-484d-8ec2-672c1d8c85cb)
 
+<iframe src="https://www.behance.net/embed/project/69020497?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 # Project Type - EDA
 
 # Project Summary -
