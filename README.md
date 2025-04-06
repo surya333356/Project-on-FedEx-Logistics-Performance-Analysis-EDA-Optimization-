@@ -13,28 +13,28 @@ FedEx Logistics operates a vast and intricate global supply chain, handling ship
 With the increasing demand for eCommerce and global distribution, logistics companies must continuously refine their operations to stay competitive. The dataset used in this analysis provides valuable insights into FedEx’s shipment management, helping to identify bottlenecks, optimize freight routes, and enhance cost-effectiveness. By leveraging data analytics, FedEx aims to improve supply chain operations, reduce costs, and enhance overall efficiency.
 
 # Problem Statements:-
-# Delivery Delays Analysis: 
+## Delivery Delays Analysis: 
 Identify factors causing shipment delays and suggest improvements to optimize on-time delivery performance.
 
-# Cost Optimization: 
+## Cost Optimization: 
 Analyze freight costs across different shipment methods and regions to find cost-effective logistics solutions.
 
-# Vendor Performance Evaluation: 
+## Vendor Performance Evaluation: 
 Assess vendor reliability by analyzing purchase orders, INCO terms, and delivery schedules.
 
-# Route Optimization: 
+## Route Optimization: 
 Identify the most efficient shipment routes to reduce transit time and improve cost efficiency.
 
-# Product-Specific Shipment Trends: 
+## Product-Specific Shipment Trends: 
 Understand how different product types affect shipment time, cost, and success rates.
 
-# Customer Satisfaction & Complaints: 
+## Customer Satisfaction & Complaints: 
 Analyze shipment delays and cancellations to understand their impact on customer experience.
 
-# Seasonal Demand & Capacity Planning: 
+## Seasonal Demand & Capacity Planning: 
 Study seasonal variations in shipment volume to optimize resource allocation.
 
-# Risk Management & Compliance: 
+## Risk Management & Compliance: 
 Detect potential risks in international shipments, customs clearance, and regulatory compliance.
 
 # Define Your Business Objective?
