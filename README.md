@@ -170,7 +170,7 @@ The purpose of this report is to analyze FedEx's shipping performance across dif
 This analysis equips stakeholders with data-driven insights to enhance FedEx's operational efficiency, reduce costs, and improve customer experience through optimized logistics strategies.
 
 
-# Hurrah! You have successfully completed your EDA Capstone Project and Power BI Dashboard !!!
+# Hurrah! I have successfully completed my EDA Project and Power BI Dashboard !!!
 
 
 
